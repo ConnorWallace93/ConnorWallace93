@@ -43,7 +43,8 @@ Coursework: Deep Learning, Natural Language Processing, Computer Vision, Machine
 ## 📫 Contact
 
 - 📧 **Email:** Connor_Wllc@Yahoo.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/connor-wallace-a9b9b22a9  
+- 🔗 **LinkedIn:** www.linkedin.com/in/connor-wallace93
+
 
 ---
 
